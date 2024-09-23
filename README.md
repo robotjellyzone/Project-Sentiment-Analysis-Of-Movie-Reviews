@@ -1,5 +1,5 @@
 # Project: Sentiment Analysis of Movie Reviews
-**`Developed and Deployed Sentiment Analysis Model Using Recurrent Neural Networks`**
+**`Developed and Deployed Sentiment Analysis Model Using Recurrent Neural Networks (LSTM)`**
 * Developed a `Recurrent Neural Network (RNN)` for sentiment analysis of movie reviews using the IMDB dataset.
 * Utilized `Amazon SageMaker` to build, train, and optimize the RNN model.
 * Deployed the model and created a web application that allows users to input movie reviews.
